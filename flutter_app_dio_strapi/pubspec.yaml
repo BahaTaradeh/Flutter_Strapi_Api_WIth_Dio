@@ -1,4 +1,4 @@
-name: flutter_app_dio_strapi
+name: flutter_app_dio_api
 description: A new Flutter application.
 
 # The following line prevents the package from being accidentally published to
@@ -28,6 +28,9 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.0
+  dio: ^3.0.10
+  image_picker: ^0.6.7+14
+
 
 dev_dependencies:
   flutter_test:
